@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/r-virtualized-project/static/css/main.b13fd22e.chunk.css",
+    "main.js": "/r-virtualized-project/static/js/main.53cd4594.chunk.js",
+    "main.js.map": "/r-virtualized-project/static/js/main.53cd4594.chunk.js.map",
+    "runtime-main.js": "/r-virtualized-project/static/js/runtime-main.675d85c7.js",
+    "runtime-main.js.map": "/r-virtualized-project/static/js/runtime-main.675d85c7.js.map",
+    "static/css/2.042623cf.chunk.css": "/r-virtualized-project/static/css/2.042623cf.chunk.css",
+    "static/js/2.d3ac604b.chunk.js": "/r-virtualized-project/static/js/2.d3ac604b.chunk.js",
+    "static/js/2.d3ac604b.chunk.js.map": "/r-virtualized-project/static/js/2.d3ac604b.chunk.js.map",
+    "static/js/3.42ffa21e.chunk.js": "/r-virtualized-project/static/js/3.42ffa21e.chunk.js",
+    "static/js/3.42ffa21e.chunk.js.map": "/r-virtualized-project/static/js/3.42ffa21e.chunk.js.map",
+    "index.html": "/r-virtualized-project/index.html",
+    "static/css/2.042623cf.chunk.css.map": "/r-virtualized-project/static/css/2.042623cf.chunk.css.map",
+    "static/css/main.b13fd22e.chunk.css.map": "/r-virtualized-project/static/css/main.b13fd22e.chunk.css.map",
+    "static/js/2.d3ac604b.chunk.js.LICENSE.txt": "/r-virtualized-project/static/js/2.d3ac604b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.675d85c7.js",
+    "static/css/2.042623cf.chunk.css",
+    "static/js/2.d3ac604b.chunk.js",
+    "static/css/main.b13fd22e.chunk.css",
+    "static/js/main.53cd4594.chunk.js"
+  ]
+}
